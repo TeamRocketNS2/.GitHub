@@ -1,4 +1,4 @@
-![alt text](https://archives.bulbagarden.net/media/upload/0/0a/Team_Rocket_motto.png)
+
 
 # Welcome To Team Rocket!
 ### The Creators of Kanto CFW and AlolaExploiter for NX2
